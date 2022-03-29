@@ -1,0 +1,65 @@
+{
+    "name": "Monira",
+    "email": "Monira@gmail.com",
+    "jobTitle": "HR",
+    "phone": "50000001",
+    "imageUrl": "https://wallsdesk.com/wp-content/uploads/2017/01/Oslo-Images.jpg"
+}{
+    "name": "Mona",
+    "email": "Mona@gmail.com",
+    "jobTitle": "Developerr",
+    "phone": "50000002",
+    "imageUrl": "https://wallsdesk.com/wp-content/uploads/2017/01/Oslo-Images.jpg"
+}{
+    "name":"Mona",
+    "email":"Mona@gmail.com",
+    "jobTitle":"Developerr",
+    "phone":"50000002",
+    "imageUrl":"https://wallsdesk.com/wp-content/uploads/2017/01/Oslo-Images.jpg"
+}[
+    {
+        "id": 3,
+        "name": "Mohamed",
+        "email": "Mohamed@gmail.com",
+        "jobTitle": "QA",
+        "phone": "50000003",
+        "imageUrl": "https://imagenagency.com/wp-content/uploads/2017/02/Jake.png",
+        "employeeCode": "8723d513-c779-4508-ac14-ed1452e2037d"
+    },
+    {
+        "id": 1,
+        "name": "Monnira",
+        "email": "Monira@gmail.com",
+        "jobTitle": "HR",
+        "phone": "50000001",
+        "imageUrl": "https://teamupstudio.id/src/img/xiao.png",
+        "employeeCode": "b5d1ee2a-e57c-4103-be9f-c06921cbb2a5"
+    },
+    {
+        "id": 2,
+        "name": "Monira",
+        "email": "Monira@gmail.com",
+        "jobTitle": "HR",
+        "phone": "50000001",
+        "imageUrl": "https://www.newcastle.edu.au/__data/assets/image/0007/716740/Emma-Joel.png",
+        "employeeCode": "8f9d6584-55c1-4a0a-91b4-f3d369f92a87"
+    },
+    {
+        "id": 4,
+        "name": "Momo",
+        "email": "Momo@gmail.com",
+        "jobTitle": "Devops",
+        "phone": "50000005",
+        "imageUrl": "https://www.mc-cardiology.com/hubfs/avataaars%2021.png",
+        "employeeCode": "85d390c5-a509-4d9d-a6f1-625f86d5aed5"
+    },
+    {
+        "id": 5,
+        "name": "aya",
+        "email": "aya@gmail.com",
+        "jobTitle": "BAck Devops",
+        "phone": "50000005",
+        "imageUrl": "https://www.laterallearning.com/wp-content/uploads/2018/10/woman_03.png",
+        "employeeCode": "831e44c5-520f-450d-a35e-db38967f1806"
+    }
+]
